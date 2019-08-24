@@ -1,0 +1,7 @@
+#container{
+    background-color: #000e02;
+    height: 95%;
+    overflow-y: scroll;
+    display: inline-block;
+    vertical-align: top;
+}
